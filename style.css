@@ -1,0 +1,133 @@
+*{
+    margin:0%;
+    padding:0;
+}
+.firsts{
+    background-color:pink;
+    display: flex;
+    margin-bottom:100px;
+    color: blueviolet;
+    width:auto;
+    height:550px;
+}
+.first-d{
+    margin-top:20px;
+    padding:2%;
+    width:50%;
+    font-weight: 600;
+    padding-left: 100px;
+}
+.frists img{
+    height: 500px;
+    margin-top:100px;
+    border-radius:200px;
+    overflow: hidden;
+    margin-bottom: 60px;
+    margin-right:50px;
+}
+h1{
+	font-size:50px;
+}
+h5{
+    font-size:20px;
+}
+h3{
+    font-size:20px;
+}
+.first-d img{
+    height:500px;
+    margin-top:100px;
+    border-radius:200px;
+    border: 5px solid white;
+}
+.ms{
+    color: blueviolet;
+    margin-left: 650px;
+}
+.app{
+    display: flex;
+    box-shadow: 0px 0px 10px pink;
+    width:58%;
+	margin-left:2%;
+	padding-left:15px;
+	border-radius:15px;
+	border:5px solid rgb(240, 81, 166);
+    margin-bottom:50px;
+    transition:1s;
+    margin-top:140px;
+}
+
+.app img{
+    border-radius:30px;
+}
+.app img:hover{
+    transform:scale(1.1);
+}
+.last{
+    display: flex; 
+    width:33%;
+}
+.last{
+    display:flex;
+    padding:20px;
+    width:80%;
+    margin-left:130px;
+    color: #000;
+}
+.btn{
+    color:white;
+	text-decoration:none;
+	background-image:linear-gradient(rgb(159, 203, 239),rgb(124, 146, 210));
+	font-weight:700px;
+	padding:10px 10px;
+	border-radius:10px;
+    margin-top:10px;
+    transition:1s;
+}
+.btn:hover{
+    transform:scale(1.1);
+}
+.l2{
+    background-color: rgb(236, 211, 225);
+    box-shadow: 0px 0px 20px 0px rebeccapurple;
+    border-radius:15px;
+    transition:1s;
+    width:40%;
+    align-content: center;
+   
+}
+.last h2{
+    color: rgb(219, 12, 209);
+    margin-bottom:8px;
+}
+.ls{
+    background-color: rgb(232, 223, 223);
+    border:40px solid white;
+    border-radius:20px ;
+    width:33%;
+    transition:1s;
+    margin: 20px;
+}
+.last P{
+    margin-bottom:20PX;
+}
+.ses{
+    display: flex;
+    margin-top: 90px;
+   
+}
+.ses img{
+    padding-right:90px;
+}
+.so{
+    font-size:20px;
+    width:50%;
+	padding:4%;
+    margin: 4%;
+}
+.so p{
+    margin-bottom:20PX;
+}
+.b{
+    color: blueviolet;
+}
